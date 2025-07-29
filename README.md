@@ -1,5 +1,3 @@
-Here's a concise README for your demo repository:
-
 # Curious Internet Surfer - AI Agent Job Search Demo
 
 ## Overview
